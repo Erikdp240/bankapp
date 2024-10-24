@@ -1,6 +1,6 @@
 # CS425 - Final Project - Bank App
 ## Application works through the terminal
-Erik Pachecho, Jungwoo Hwang, Harsha Pillai
+Erik Pacheco, Jungwoo Hwang, Harsha Pillai
 
 1. **Run the DDL SQL code:**
    * databasescript_cs42projrect.sql
