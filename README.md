@@ -1,4 +1,5 @@
-# cs425-f22-group-21
+# CS425 - Final Project - Bank App
+## Application works through the terminal
 Erik Pachecho, Jungwoo Hwang, Harsha Pillai
 
 1. **Run the DDL SQL code:**
